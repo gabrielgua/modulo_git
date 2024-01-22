@@ -1,1 +1,1 @@
-olá, sou um conflito.
+olá, sou um conflito. mudança 1;
